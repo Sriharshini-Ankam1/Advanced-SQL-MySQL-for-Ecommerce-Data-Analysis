@@ -1,7 +1,5 @@
 # Advanced-SQL-MySQL-for-Ecommerce-Data-Analysis
 
-Here's a project description for your GitHub repository based on your SQL project:  
-
 ---
 
 # 🛍️ Maven Fuzzy Factory: eCommerce SQL Analysis  
