@@ -1,4 +1,4 @@
-# Advanced-SQL-MySQL-for-eCommerce-Data-Analysis
+# Advanced-SQL-MySQL-for-eCommerce-Data-Analysis 📊
 
 ---
 
