@@ -2,7 +2,6 @@
 
 ---
 
-## 🛍️ Maven Fuzzy Factory: eCommerce SQL Analysis  
 
 ## 📌 Project Overview  
 This project showcases advanced SQL skills applied to real-world eCommerce business problems at **Maven Fuzzy Factory**, a startup aiming to optimize its website traffic, marketing channels, and sales performance. As a **Database Analyst**, I worked closely with the **CEO, Marketing Director, and Website Manager** to analyze business performance and provide actionable insights using **MySQL**.  
