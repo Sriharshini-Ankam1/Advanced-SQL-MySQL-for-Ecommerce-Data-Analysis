@@ -44,16 +44,26 @@ This project showcases advanced SQL skills applied to real-world eCommerce busin
 
 ## 📂 Repository Structure  
 ```
-📁 SQL-Scripts  
-  ├── traffic_analysis.sql  
-  ├── conversion_funnels.sql  
-  ├── marketing_channel_analysis.sql  
-  ├── product_performance.sql  
-  ├── user_behavior_analysis.sql  
-📁 Reports  
-  ├── executive_summary.pdf  
-  ├── traffic_insights.xlsx  
-  ├── product_trends.xlsx  
+📂 Advanced-SQL-MySQL-for-Ecommerce-Data-Analysis
+│── 📂 Executive Report
+│   ├── Executive Report SQL-Data-Driven-eCommerce-Analysis.pdf
+│
+│── 📂 SQL Scripts
+│   ├── 1. Traffic Source Analysis.sql
+│   ├── 2. Website Performance Analysis.sql
+│   ├── 3. Channel Portfolio Analysis & Optimization.sql
+│   ├── 4.1 Products sales analysis.sql
+│   ├── 4.2 Product Cross selling Analysis.sql
+│   ├── 4.3 Product Portfolio Expansion Analysis.sql
+│   ├── 4.4 Product Refund Rates Analysis.sql
+│   ├── 5. User Analysis.sql
+│
+│── 📂 Dataset.zip
+│   ├── create_mavenfuzzyfactory_vApril2022.sql
+│   ├── preparing_workbench_vApril2022.sql
+│
+│── README.md
+
 ```
 
 ## 📢 Why This Project?  
